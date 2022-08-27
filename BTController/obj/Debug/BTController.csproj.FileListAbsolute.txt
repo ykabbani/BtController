@@ -1,0 +1,15 @@
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\BTController.exe.config
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\BTController.exe
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\BTController.pdb
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.csprojAssemblyReference.cache
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.Properties.Resources.resources
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.csproj.GenerateResource.cache
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.csproj.CoreCompileInputs.cache
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.exe
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.pdb
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\SharpDX.dll
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\SharpDX.XInput.dll
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\SharpDX.xml
+C:\Users\Yousuf\source\repos\BTController\BTController\bin\Debug\SharpDX.XInput.xml
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.csproj.CopyComplete
+C:\Users\Yousuf\source\repos\BTController\BTController\obj\Debug\BTController.BTController.resources
