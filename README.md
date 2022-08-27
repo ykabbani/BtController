@@ -1,5 +1,7 @@
 # BtController
 
+<img src="https://user-images.githubusercontent.com/26261828/187012062-0752eda7-3780-4bea-a070-08e174d298da.png" width="150" />
+
 ## Project Description
 This is a windows app for controlling a bluetooth-connected device over serial via a game controller or keyboard. This project was made for a graduate mechanical engineering course to enable inexperienced developers to control vehicles and robots they build with no coding needed.
 
